@@ -1,0 +1,137 @@
+
+body{
+    background-color: black;
+}
+header img{
+    border: 0p;
+    margin-top: 20px;
+}
+#titulo{
+    text-align: left;
+    margin: 20px;
+    background-color: gray;
+    padding: 5px;
+}
+#imagenC {
+    width: 100%;
+    margin-bottom: 0;
+}
+#demo{
+    text-align: center;
+    position: absolute;
+    top: 15px; left: 60%;
+    color: white;
+}
+#demo1{
+    text-align: center;
+    position: absolute;
+    top: 15px; left: 70%;
+    color: white;
+}
+h1{
+    color: white;
+    text-align: center;
+    background-color: gray;
+    font-family: Arial, "sans-serif";
+}
+#cero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.imagen1{
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    width: 300px;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    padding-top: 25px;
+    font-family: Arial, "sans-serif";
+ }
+ .imagen2{
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    width: 300px;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    padding-top: 25px;
+    font-family: Arial, "sans-serif";
+ }
+ .imagen3{
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    width: 300px;
+    text-align: center; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    padding-top: 25px;
+    font-family: Arial, "sans-serif";
+ }
+ .imagen1 img{
+    max-width: 100%; 
+    height: auto; 
+    width: 200px;
+ }
+ .imagen2 img{
+    max-width: 100%; 
+    height: auto; 
+    width: 200px;
+ }
+ .imagen3 img{
+    max-width: 100%; 
+    height: auto; 
+    width: 200px;
+ }
+ figcaption{
+    background-color: black;
+    padding: 20px;
+    text-align:left;
+ }
+h2{
+    font-family: Arial, "sans-serif";
+    color: white;
+    font-size: 30px;
+    margin-top: 0;
+}
+#imagen1{
+    width: 100%;
+}
+.cuadro{
+    background-color: gray;
+    margin-top: -50;
+}
+.piepagina{
+    background-color: rgb(31, 30, 30);
+    padding: 50px;
+}
+.piepagina footer{
+    color: white;
+}
+.piepagina img{
+    position: relative;
+    width: 30px;
+    border-bottom: 0%;
+}
+footer img{
+    margin-top: 20%;
+}
+.redessociales img {
+    transition: opacity 0.5s; 
+}
+
+
+.redessociales img:hover {
+    opacity: 0.5; 
+}
